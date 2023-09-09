@@ -1,0 +1,1 @@
+﻿web: gunicorn Rental_Connection.wsgi
